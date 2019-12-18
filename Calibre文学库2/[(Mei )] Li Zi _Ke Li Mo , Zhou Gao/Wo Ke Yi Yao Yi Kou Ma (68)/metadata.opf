@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7405050b-7a0e-41b9-bde8-22b8fd780fe8</dc:identifier>
+        <dc:title>我可以咬一口吗</dc:title>
+        <dc:creator opf:file-as="【美】莉兹·克里莫, 周高逸, ePUBw.COM" opf:role="aut">【美】莉兹·克里莫, 周高逸, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">84fc0b08-ac77-4d32-ac07-b8438dbee5a8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787201102177</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】莉兹·克里莫, 周高逸, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:18:53.046000+00:00" name="calibre:timestamp"/>
+        <meta content="我可以咬一口吗" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

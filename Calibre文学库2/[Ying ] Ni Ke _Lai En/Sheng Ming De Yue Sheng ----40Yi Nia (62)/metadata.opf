@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32a442f0-6806-46b7-b99b-ef5c6c3fb1cf</dc:identifier>
+        <dc:title>生命的跃升——40亿年演化史上的十大发明</dc:title>
+        <dc:creator opf:file-as="[英] 尼克·莱恩 &amp; ePUBw.COM" opf:role="aut">[英] 尼克·莱恩</dc:creator>
+        <dc:creator opf:file-as="[英] 尼克·莱恩 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-13T16:00:00+00:00</dc:date>
+        <dc:description>这本内容丰富的作品试图解读进化论的十个*伟大“发明”，从生命的原初，经过它的创造期，到它的终结。在整个过程中，会出现很多非同一般的神来之笔，如DNA、光合作用、视力和意识。NickLane以清晰而智慧的笔调，探究了进化过程中十个*伟大的“发明”。这些生物学上的进化在NickLane的研究过程中深深吸引了他，并在这本书中得到了解释和揭秘，在读者面前显得清晰明了起来。这本书围绕着生物学、地质学、化学和物理学领域所取得的*新研究进展来组织叙述，重现了地球上生命的历史，而且带着精彩而出乎意料的细节，这些细节必定会吸引非专业读者、学生、科研人员等不同的读者群体。谁会料想到，眼睛*原初的形态只是藻类用于调节光合作用的感光小点；DNA的基本成分会在热液喷口中自行形成；素食者容易产生烦躁情绪。直到现在，我们才可以将生命不凡历史中的形形色色拼凑在一起，并看到它所拥有的丰富细节。</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">47595f86-90c2-4a97-8d9d-5c102be312fb</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787030464286</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[英] 尼克·莱恩&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:18:19.969000+00:00" name="calibre:timestamp"/>
+        <meta content="生命的跃升——40亿年演化史上的十大发明" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

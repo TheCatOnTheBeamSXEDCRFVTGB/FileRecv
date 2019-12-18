@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebda2c8c-d6d4-46d0-ae9f-037d1affdd55</dc:identifier>
+        <dc:title>清明上河图密码：隐藏在千古名画中的阴谋与杀局5</dc:title>
+        <dc:creator opf:file-as="冶文彪, ePUBw.COM" opf:role="aut">ePUBw.COM 冶文彪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版有限公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">24b2c2a3-65c7-4d44-be2f-0109ae8874c0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787559619846</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;ePUBw.COM 冶文彪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T11:50:23.088000+00:00" name="calibre:timestamp"/>
+        <meta content="清明上河图密码：隐藏在千古名画中的阴谋与杀局5" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

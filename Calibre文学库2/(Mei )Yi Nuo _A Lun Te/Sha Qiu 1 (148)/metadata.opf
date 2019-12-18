@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1589f09-0c8b-468c-8839-345dd9266cea</dc:identifier>
+        <dc:title>沙丘1</dc:title>
+        <dc:creator opf:file-as="（美）汉娜·阿伦特 &amp; 【美】弗兰克·赫伯特" opf:role="aut">（美）汉娜·阿伦特</dc:creator>
+        <dc:creator opf:file-as="（美）汉娜·阿伦特 &amp; 【美】弗兰克·赫伯特" opf:role="aut">【美】弗兰克·赫伯特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-01T16:00:00+00:00</dc:date>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f1abfa75-4a85-4c6a-afc1-80e957209c8c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787539967363</dc:identifier>
+        <dc:language>zh</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <meta content="{&quot;（美）汉娜·阿伦特&quot;: &quot;&quot;, &quot;【美】弗兰克·赫伯特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="沙丘系列" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2019-12-18T02:44:06+00:00" name="calibre:timestamp"/>
+        <meta content="沙丘1" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7511c47-f965-4cf7-8909-2195da0316ec</dc:identifier>
+        <dc:title>北欧众神</dc:title>
+        <dc:creator opf:file-as="【英】尼尔·盖曼, 胡婧, ePUBw.COM" opf:role="aut">【英】尼尔·盖曼, 胡婧, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6aae9331-8dd2-48ac-b44e-966a15428d16</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787559416735</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【英】尼尔·盖曼, 胡婧, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:51:00.705000+00:00" name="calibre:timestamp"/>
+        <meta content="北欧众神" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

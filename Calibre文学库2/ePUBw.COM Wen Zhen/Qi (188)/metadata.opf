@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c04de44-ccc2-4d96-9de5-15e6387653f7</dc:identifier>
+        <dc:title>柒</dc:title>
+        <dc:creator opf:file-as="文珍, ePUBw.COM" opf:role="aut">ePUBw.COM 文珍</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京时代华文书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787569915686</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3d15e4de-78d4-410b-bcfa-fac8f78f43cf</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;ePUBw.COM 文珍&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:42:26.179000+00:00" name="calibre:timestamp"/>
+        <meta content="柒" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

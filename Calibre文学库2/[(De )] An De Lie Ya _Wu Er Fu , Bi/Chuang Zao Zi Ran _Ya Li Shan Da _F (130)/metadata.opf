@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70131feb-e02d-416e-9c85-0d6bebb3b1b2</dc:identifier>
+        <dc:title>创造自然：亚历山大·冯·洪堡的科学发现之旅</dc:title>
+        <dc:creator opf:file-as="【德】安德烈娅·武尔夫, 边和, ePUBw.COM" opf:role="aut">【德】安德烈娅·武尔夫, 边和, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787213083426</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c3b47cef-4a77-4218-ab95-280f73c9bddb</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【德】安德烈娅·武尔夫, 边和, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T02:42:14.229000+00:00" name="calibre:timestamp"/>
+        <meta content="创造自然：亚历山大·冯·洪堡的科学发现之旅" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

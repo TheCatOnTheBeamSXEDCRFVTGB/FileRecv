@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a80ceafe-0d5d-4682-b587-f3a921a3e013</dc:identifier>
+        <dc:title>一个叫欧维的男人决定去死</dc:title>
+        <dc:creator opf:file-as="【瑞典】弗雷德里克·巴克曼, 宁蒙, ePUBw.COM" opf:role="aut">【瑞典】弗雷德里克·巴克曼, 宁蒙, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-30T16:00:00+00:00</dc:date>
+        <dc:publisher>四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">046ba7c3-c9d8-4d19-a44e-db4c9dda160f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787541142185</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【瑞典】弗雷德里克·巴克曼, 宁蒙, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:55:47.431000+00:00" name="calibre:timestamp"/>
+        <meta content="一个叫欧维的男人决定去死" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

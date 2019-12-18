@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7acbcc30-07e1-4acf-869a-35fda884f3dc</dc:identifier>
+        <dc:title>我的孤单，我的自我：单身女性的时代</dc:title>
+        <dc:creator opf:file-as="【美】丽贝卡·特雷斯特, 贺梦菲, 薛轲, ePUBw.COM" opf:role="aut">【美】丽贝卡·特雷斯特, 贺梦菲, 薛轲, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cbbd0f9f-ecda-4f4e-aec3-8e488ce33c9b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787559800572</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】丽贝卡·特雷斯特, 贺梦菲, 薛轲, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:55:09.374000+00:00" name="calibre:timestamp"/>
+        <meta content="我的孤单，我的自我：单身女性的时代" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

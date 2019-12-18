@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6ac3cde-bfe6-410d-8edc-23a772cbc857</dc:identifier>
+        <dc:title>人之彼岸</dc:title>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 郝景芳" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 郝景芳" opf:role="aut">郝景芳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508661506</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ec3aa0db-647f-4ddc-a384-2d9a8f0ad3cc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;ePUBw.COM&quot;: &quot;&quot;, &quot;郝景芳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T00:43:53.592000+00:00" name="calibre:timestamp"/>
+        <meta content="人之彼岸" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

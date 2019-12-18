@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">804b479c-65e6-4278-bbd4-6238b1425762</dc:identifier>
+        <dc:title>杀死一只知更鸟</dc:title>
+        <dc:creator opf:file-as="[美] 哈珀·李" opf:role="aut">[美] 哈珀·李</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-02T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书获1960年普利策奖。三十年代，美国大萧条时期南部的一个小镇，三个天真孩子的生活因为两桩冤案而改变。赢弱而失语的人、固守太多偏见的无知的人，还有恪守原则的善良的律师父亲，迫使他们艰难地去理解成人世界里的偏见和冷漠，去理解真相所包含的危机和无奈，同时试着去理解，坏人的内心也可能无辜。&lt;br&gt; &lt;br&gt;　　哈珀•李（1932-），生于美国阿拉巴马州，曾被授予普利策奖及其他众多文学奖项。她与杜鲁门•卡波特是幼年的邻居和一生的朋友。《杀死一只反舌鸟》是她唯一的长篇小说，据说是以卡波特为原型之一创作的，现已成为公认的美国文学经典。此后，她一直隐居在家乡阿拉巴马的小镇上，拒绝各种采访，过着平静的生活。有人问她为什么不在盛名之下接着写作，她回答：“有过这样一次，还有什么可写的？”&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">893b227b-cca3-4252-b30e-6c4b4a485644</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美] 哈珀·李&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:44:41.616000+00:00" name="calibre:timestamp"/>
+        <meta content="杀死一只知更鸟" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01ce4e5c-45ef-400b-ac60-6a909713d49e</dc:identifier>
+        <dc:title>未知大学主诗集</dc:title>
+        <dc:creator opf:file-as="【智利】罗贝托·波拉尼奥, 范晔, 杨玲, ePUBw.COM" opf:role="aut">【智利】罗贝托·波拉尼奥, 范晔, 杨玲, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208139411</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">844f663e-186d-4443-bb50-b1deffe13da1</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【智利】罗贝托·波拉尼奥, 范晔, 杨玲, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:43:03.424000+00:00" name="calibre:timestamp"/>
+        <meta content="未知大学主诗集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

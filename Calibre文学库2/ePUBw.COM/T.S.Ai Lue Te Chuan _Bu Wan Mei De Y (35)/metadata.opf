@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3d998a9-ec96-414a-bd3b-ec589ef1f743</dc:identifier>
+        <dc:title>T.S.艾略特传：不完美的一生（艾略特是20世纪英语文学文化中最重要的人物，这样伟大的地位，他在很短的时间、惨淡的境遇里，用为数不多的作品就已斩获）</dc:title>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 林德尔·戈登" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 林德尔·戈登" opf:role="aut">林德尔·戈登</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cd83891e-23f3-44bc-b7df-38d62dfabd84</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532168941</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;ePUBw.COM&quot;: &quot;&quot;, &quot;林德尔·戈登&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:15:07.623000+00:00" name="calibre:timestamp"/>
+        <meta content="T.S.艾略特传：不完美的一生（艾略特是20世纪英语文学文化中最重要的人物，这样伟大的地位，他在很短的时间、惨淡的境遇里，用为数不多的作品就已斩获）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

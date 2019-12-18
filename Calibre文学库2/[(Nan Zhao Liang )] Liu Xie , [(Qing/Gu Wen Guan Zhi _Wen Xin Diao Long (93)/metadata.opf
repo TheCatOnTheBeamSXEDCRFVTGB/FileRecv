@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfa919fb-af95-4cdb-bd6c-330b9e8f1443</dc:identifier>
+        <dc:title>古文观止·文心雕龙</dc:title>
+        <dc:creator opf:file-as="【南朝梁】刘勰, 【清】吴楚材, 【清】吴调侯, ePUBw.COM" opf:role="aut">【南朝梁】刘勰, 【清】吴楚材, 【清】吴调侯, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>商务印书馆国际有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787900011498</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7f549260-de1a-4ac6-900a-5ef517fbecc2</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【南朝梁】刘勰, 【清】吴楚材, 【清】吴调侯, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T00:42:41.084000+00:00" name="calibre:timestamp"/>
+        <meta content="古文观止·文心雕龙" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

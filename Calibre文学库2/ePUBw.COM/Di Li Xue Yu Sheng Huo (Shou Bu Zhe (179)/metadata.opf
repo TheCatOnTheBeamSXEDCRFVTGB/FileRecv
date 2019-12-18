@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37b79f41-48d4-41f1-88cc-05e234be77d2</dc:identifier>
+        <dc:title>地理学与生活（首部整合各分支学科的地理学译著，知识点全面系统又贴近人的实际生活！）</dc:title>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 阿瑟·格蒂斯 &amp; 朱迪丝·格蒂斯 &amp; 杰尔姆·D.费尔曼" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 阿瑟·格蒂斯 &amp; 朱迪丝·格蒂斯 &amp; 杰尔姆·D.费尔曼" opf:role="aut">阿瑟·格蒂斯</dc:creator>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 阿瑟·格蒂斯 &amp; 朱迪丝·格蒂斯 &amp; 杰尔姆·D.费尔曼" opf:role="aut">朱迪丝·格蒂斯</dc:creator>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 阿瑟·格蒂斯 &amp; 朱迪丝·格蒂斯 &amp; 杰尔姆·D.费尔曼" opf:role="aut">杰尔姆·D.费尔曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-18T16:00:00+00:00</dc:date>
+        <dc:publisher>北京：北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787559605092</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b059160b-f8c6-4bb7-8fae-06c0ad7cb8f4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;阿瑟·格蒂斯&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;, &quot;朱迪丝·格蒂斯&quot;: &quot;&quot;, &quot;杰尔姆·D.费尔曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:41:23.299000+00:00" name="calibre:timestamp"/>
+        <meta content="地理学与生活（首部整合各分支学科的地理学译著，知识点全面系统又贴近人的实际生活！）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

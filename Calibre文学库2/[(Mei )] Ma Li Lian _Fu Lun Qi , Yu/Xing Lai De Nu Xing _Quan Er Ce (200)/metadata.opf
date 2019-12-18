@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1454902f-39a1-46fe-bb8b-94561e1e7129</dc:identifier>
+        <dc:title>醒来的女性：全二册</dc:title>
+        <dc:creator opf:file-as="【美】玛丽莲·弗伦奇, 余莉, ePUBw.COM" opf:role="aut">【美】玛丽莲·弗伦奇, 余莉, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-01T16:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550296787</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e6d656e2-554f-4a25-a17a-7913b6522af6</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】玛丽莲·弗伦奇, 余莉, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:43:51.260000+00:00" name="calibre:timestamp"/>
+        <meta content="醒来的女性：全二册" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

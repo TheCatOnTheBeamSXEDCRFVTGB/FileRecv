@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16eda3af-f478-4993-a365-aaa81f8b05cf</dc:identifier>
+        <dc:title>奇点遗民</dc:title>
+        <dc:creator opf:file-as="刘宇昆 &amp; ePUBw.COM" opf:role="aut">刘宇昆</dc:creator>
+        <dc:creator opf:file-as="刘宇昆 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-14T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508678764</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c8376481-db32-4614-bf2d-e19f3d447082</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;ePUBw.COM&quot;: &quot;&quot;, &quot;刘宇昆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T02:43:50.277000+00:00" name="calibre:timestamp"/>
+        <meta content="奇点遗民" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

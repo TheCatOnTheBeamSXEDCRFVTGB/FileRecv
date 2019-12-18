@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d18b5dc4-fd9d-4447-a334-24f953c709a7</dc:identifier>
+        <dc:title>东北游记</dc:title>
+        <dc:creator opf:file-as="【美】迈克尔·麦尔, 何雨珈, ePUBw.COM" opf:role="aut">【美】迈克尔·麦尔, 何雨珈, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-08T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532773107</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">55f557f3-15f5-4736-8455-3b0b1a4dc011</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】迈克尔·麦尔, 何雨珈, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T02:43:14.161000+00:00" name="calibre:timestamp"/>
+        <meta content="东北游记" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

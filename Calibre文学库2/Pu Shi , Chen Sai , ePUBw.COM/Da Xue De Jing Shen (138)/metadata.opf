@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f16738e-6d17-4498-8289-cd50e27b9bdd</dc:identifier>
+        <dc:title>大学的精神</dc:title>
+        <dc:creator opf:file-as="蒲实, 陈赛, ePUBw.COM" opf:role="aut">蒲实, 陈赛, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-27T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6b1b0711-968e-4dd4-b84f-a6993ed5e22d</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508668994</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;蒲实, 陈赛, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T02:42:48.113000+00:00" name="calibre:timestamp"/>
+        <meta content="大学的精神" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5ac6b97-e579-41a6-b293-9f550c106b59</dc:identifier>
+        <dc:title>让我们灵魂激荡身体欢愉</dc:title>
+        <dc:creator opf:file-as="任黎明 &amp; ePUBw.COM" opf:role="aut">任黎明</dc:creator>
+        <dc:creator opf:file-as="任黎明 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>天津科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787557666262</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>①男科学-基本知识</dc:subject>
+        <meta content="{&quot;任黎明&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T10:00:57.623000+00:00" name="calibre:timestamp"/>
+        <meta content="让我们灵魂激荡身体欢愉" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

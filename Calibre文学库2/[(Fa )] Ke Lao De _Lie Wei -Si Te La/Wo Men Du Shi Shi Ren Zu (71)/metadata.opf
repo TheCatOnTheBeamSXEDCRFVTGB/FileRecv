@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efccff7e-7b01-4c54-8f7e-6ed41651266b</dc:identifier>
+        <dc:title>我们都是食人族</dc:title>
+        <dc:creator opf:file-as="【法】克劳德·列维-斯特劳斯, 廖惠瑛, ePUBw.COM" opf:role="aut">【法】克劳德·列维-斯特劳斯, 廖惠瑛, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">21b54fb0-d582-4cd0-b295-98360b1305fd</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208138858</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【法】克劳德·列维-斯特劳斯, 廖惠瑛, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:19:15.033000+00:00" name="calibre:timestamp"/>
+        <meta content="我们都是食人族" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

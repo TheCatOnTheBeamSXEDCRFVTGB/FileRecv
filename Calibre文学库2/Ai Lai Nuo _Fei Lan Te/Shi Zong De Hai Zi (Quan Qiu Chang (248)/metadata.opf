@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5f75568-ecd8-408c-9724-30ff6d7da507</dc:identifier>
+        <dc:title>失踪的孩子（全球畅销近千万册，HBO真人电视剧热拍中，两个女人50年的友谊和战争）</dc:title>
+        <dc:creator opf:file-as="埃莱娜·费兰特 &amp; ePUBw.COM" opf:role="aut">埃莱娜·费兰特</dc:creator>
+        <dc:creator opf:file-as="埃莱娜·费兰特 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-24T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">476d93fd-399b-4975-aeab-632769f4b59b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787020139927</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;埃莱娜·费兰特&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:54:07.242000+00:00" name="calibre:timestamp"/>
+        <meta content="失踪的孩子（全球畅销近千万册，HBO真人电视剧热拍中，两个女人50年的友谊和战争）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

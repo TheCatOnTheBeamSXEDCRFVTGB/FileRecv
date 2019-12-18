@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1f61386-8d4f-4313-b02b-1c653be076fb</dc:identifier>
+        <dc:title>民主的不满：美国在寻求一种公共哲学</dc:title>
+        <dc:creator opf:file-as="【美】迈克尔·桑德尔, 曾纪茂, ePUBw.COM" opf:role="aut">【美】迈克尔·桑德尔, 曾纪茂, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1c369e62-b609-4d97-9dd8-56dbd98b0ddd</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508657677</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】迈克尔·桑德尔, 曾纪茂, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:14:47.578000+00:00" name="calibre:timestamp"/>
+        <meta content="民主的不满：美国在寻求一种公共哲学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

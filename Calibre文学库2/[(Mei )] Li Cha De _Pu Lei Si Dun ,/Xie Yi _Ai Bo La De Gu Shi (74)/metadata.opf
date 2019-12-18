@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69655354-825f-47b7-a38c-b0f4d738be8a</dc:identifier>
+        <dc:title>血疫：埃博拉的故事</dc:title>
+        <dc:creator opf:file-as="【美】理查德·普雷斯顿, 姚向辉, ePUBw.COM" opf:role="aut">【美】理查德·普雷斯顿, 姚向辉, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-29T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6b27e7e3-e285-4d43-ab1e-068368d7206a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532771493</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】理查德·普雷斯顿, 姚向辉, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:19:31.123000+00:00" name="calibre:timestamp"/>
+        <meta content="血疫：埃博拉的故事" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

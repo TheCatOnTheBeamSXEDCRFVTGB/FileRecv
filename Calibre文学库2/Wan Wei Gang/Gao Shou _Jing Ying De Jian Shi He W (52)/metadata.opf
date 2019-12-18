@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0211614-48ab-46bc-bef8-c19cbb2a141a</dc:identifier>
+        <dc:title>高手：精英的见识和我们的时代（精装版）</dc:title>
+        <dc:creator opf:file-as="万维钢 &amp; ePUBw.COM" opf:role="aut">万维钢</dc:creator>
+        <dc:creator opf:file-as="万维钢 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-25T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f1c4026-15e7-471e-8af5-52c512a2208a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121323348</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;万维钢&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:17:07.734000+00:00" name="calibre:timestamp"/>
+        <meta content="高手：精英的见识和我们的时代（精装版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

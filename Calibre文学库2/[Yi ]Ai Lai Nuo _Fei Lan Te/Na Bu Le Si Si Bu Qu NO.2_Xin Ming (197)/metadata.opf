@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c36c97e-e309-4571-9133-2c84218bde74</dc:identifier>
+        <dc:title>那不勒斯四部曲NO.2：新名字的故事（全球畅销近千万册，HBO真人电视剧热拍中，两个女人50年的友谊和战争，希拉里·克林顿、乔纳森·弗兰岑、詹姆斯·弗兰科都是她的粉丝）</dc:title>
+        <dc:creator opf:file-as="[意]埃莱娜·费兰特 &amp; ePUBw.COM" opf:role="aut">[意]埃莱娜·费兰特</dc:creator>
+        <dc:creator opf:file-as="[意]埃莱娜·费兰特 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-19T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9787020125265</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b95dc4f1-e655-4012-a437-bc611eca2ab4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;ePUBw.COM&quot;: &quot;&quot;, &quot;[意]埃莱娜·费兰特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:43:26.418000+00:00" name="calibre:timestamp"/>
+        <meta content="那不勒斯四部曲NO.2：新名字的故事（全球畅销近千万册，HBO真人电视剧热拍中，两个女人50年的友谊和战争，希拉里·克林顿、乔纳森·弗兰岑、詹姆斯·弗兰科都是她的粉丝）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69be1646-5e94-429b-bd4f-1ebbd7c1f1f9</dc:identifier>
+        <dc:title>人生的智慧</dc:title>
+        <dc:creator opf:file-as="叔本华(Arthur Schopenhauer)" opf:role="aut">叔本华(Arthur Schopenhauer)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-07T16:00:00+00:00</dc:date>
+        <dc:publisher>中央编译出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bba9d3b5-aeec-46fe-b4d1-747b6002865a</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;叔本华(Arthur Schopenhauer)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T04:32:39.445000+00:00" name="calibre:timestamp"/>
+        <meta content="人生的智慧" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

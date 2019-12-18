@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">362f80bc-e1ab-4adc-9723-4099ded2b1c3</dc:identifier>
+        <dc:title>毒木圣经</dc:title>
+        <dc:creator opf:file-as="芭芭拉·金索沃 &amp; ePUBw.COM" opf:role="aut">芭芭拉·金索沃</dc:creator>
+        <dc:creator opf:file-as="芭芭拉·金索沃 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-28T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9787544280884</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b47aae56-5269-4763-8f1e-019ac2486973</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;ePUBw.COM&quot;: &quot;&quot;, &quot;芭芭拉·金索沃&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T00:42:19.607000+00:00" name="calibre:timestamp"/>
+        <meta content="毒木圣经" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

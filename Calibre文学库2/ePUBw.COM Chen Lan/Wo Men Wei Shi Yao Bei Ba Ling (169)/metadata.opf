@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">330ea958-9383-4008-a036-91087c39a94e</dc:identifier>
+        <dc:title>我们为什么被霸凌</dc:title>
+        <dc:creator opf:file-as="陈岚, ePUBw.COM" opf:role="aut">ePUBw.COM 陈岚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤 凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c24cfe82-15fb-4dfa-b7b6-59d747e36f90</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787559406859</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;ePUBw.COM 陈岚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T02:46:52.830000+00:00" name="calibre:timestamp"/>
+        <meta content="我们为什么被霸凌" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

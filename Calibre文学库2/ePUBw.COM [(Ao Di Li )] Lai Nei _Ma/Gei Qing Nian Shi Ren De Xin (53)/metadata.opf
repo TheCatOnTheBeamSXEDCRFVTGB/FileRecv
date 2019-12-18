@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb627af3-e0ec-4f96-b175-5ba0f4ae6d38</dc:identifier>
+        <dc:title>给青年诗人的信</dc:title>
+        <dc:creator opf:file-as="【奥地利】莱内·马利亚·里尔克, ePUBw.COM" opf:role="aut">ePUBw.COM 【奥地利】莱内·马利亚·里尔克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>云南人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">446491cb-9470-41fc-b242-b51d47c7eb66</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787222137912</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;ePUBw.COM 【奥地利】莱内·马利亚·里尔克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:17:27.569000+00:00" name="calibre:timestamp"/>
+        <meta content="给青年诗人的信" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

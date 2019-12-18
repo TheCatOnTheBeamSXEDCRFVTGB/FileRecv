@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29c0c8e0-426d-4cf4-af7c-b0bc29a94787</dc:identifier>
+        <dc:title>鳄鱼街</dc:title>
+        <dc:creator opf:file-as="【波兰】布鲁诺·舒尔茨, ePUBw.COM" opf:role="aut">ePUBw.COM 【波兰】布鲁诺·舒尔茨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">aace93e4-2341-4153-9901-0962b3911194</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787513311472</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;ePUBw.COM 【波兰】布鲁诺·舒尔茨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:16:29.908000+00:00" name="calibre:timestamp"/>
+        <meta content="鳄鱼街" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

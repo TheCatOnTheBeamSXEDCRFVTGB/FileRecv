@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d177e19-b896-4f0a-962e-9c8afa09bf14</dc:identifier>
+        <dc:title>七根凶简</dc:title>
+        <dc:creator opf:file-as="尾鱼 &amp; ePUBw.COM" opf:role="aut">尾鱼</dc:creator>
+        <dc:creator opf:file-as="尾鱼 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-13T06:20:37.619000+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9787505740570</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">9c1dd4d2-7511-4be3-911c-cb777da29e03</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;尾鱼&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T00:43:36.570000+00:00" name="calibre:timestamp"/>
+        <meta content="七根凶简" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24f35a8b-2217-4ae9-b1bc-71b26ed4d398</dc:identifier>
+        <dc:title>金赛性学报告（男人篇&amp;女人篇） (“塑造美国的88本书”丛书)</dc:title>
+        <dc:creator opf:file-as="（美）阿尔弗雷德•C•金赛 &amp; ePUBw.COM" opf:role="aut">（美）阿尔弗雷德•C•金赛</dc:creator>
+        <dc:creator opf:file-as="（美）阿尔弗雷德•C•金赛 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">72c50325-e4a1-4350-bc8c-4e9a9e5f0c38</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787515316475</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;（美）阿尔弗雷德•C•金赛&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:52:07.899000+00:00" name="calibre:timestamp"/>
+        <meta content="金赛性学报告（男人篇&amp;女人篇） (“塑造美国的88本书”丛书)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

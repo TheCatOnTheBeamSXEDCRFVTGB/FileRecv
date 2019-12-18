@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4811fb3c-5756-4876-95fa-52d1ee6ba3a2</dc:identifier>
+        <dc:title>银河边缘001：奇境</dc:title>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">杨枫</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美] 迈克·雷斯尼克 编</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]刘宇昆</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]杰克·威廉森</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">美]罗伯特·西尔弗伯格</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]南希·克雷斯</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]汤姆·格伦瑟</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]凯济·约翰逊</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]格里高利·本福德</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">付强</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">梁清散</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">李盆</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[澳大利亚]尼克·t. 陈</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]海蒂·鲁比·米勒</dc:creator>
+        <dc:creator opf:file-as="杨枫 &amp; 编, 迈克·雷斯尼克 &amp; [美]刘宇昆 &amp; [美]杰克·威廉森 &amp; 美]罗伯特·西尔弗伯格 &amp; [美]南希·克雷斯 &amp; [美]汤姆·格伦瑟 &amp; [美]凯济·约翰逊 &amp; [美]格里高利·本福德 &amp; 付强 &amp; 梁清散 &amp; 李盆 &amp; 陈, 尼克·t. &amp; [美]海蒂·鲁比·米勒 &amp; 伽卢耶, 丹尼尔·f." opf:role="aut">[美]丹尼尔·f. 伽卢耶</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-01T03:45:20.399000+00:00</dc:date>
+        <dc:description>恢弘宇宙 闪耀创生
+中外作家大手笔惊奇联合
+开启中国科幻出版新纪元
+妙趣横生的科幻往事
+惊险刺激的推理科幻
+诗意盎然的末日之旅
+超乎想象的人类未来
+刘宇昆、杰克·威廉森、梁清散、付强……
+十余个有趣而闪耀的科幻灵魂
+打造一场无比满足的科幻盛宴
+《银河边缘》科幻丛书由八光分文化与人民文学出版社联合出品，由东西方专业科幻人共同主编。书中的内容大部分选自美国《银河边缘》杂志中最精华的部分，同时也有相当的篇幅展示优秀的中国原创科幻。
+《银河边缘·奇境》是丛书第一辑，收录了刘宇昆、杰克·威廉森、罗伯特·西尔弗伯格、梁清散、付强、李盆等十余位中外科幻作家的作品，涉及世界末日、人类废土、推理科幻、反乌托邦等多个题材，是一场中外科幻作家联手打造的饕餮盛宴。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07PQD1YQL</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">30275106</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787020092987</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>短篇集</dc:subject>
+        <dc:subject>Mook</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <meta content="{&quot;杨枫&quot;: &quot;&quot;, &quot;付强&quot;: &quot;&quot;, &quot;[美]格里高利·本福德&quot;: &quot;&quot;, &quot;[美]汤姆·格伦瑟&quot;: &quot;&quot;, &quot;[美]杰克·威廉森&quot;: &quot;&quot;, &quot;梁清散&quot;: &quot;&quot;, &quot;李盆&quot;: &quot;&quot;, &quot;[美]凯济·约翰逊&quot;: &quot;&quot;, &quot;[美]南希·克雷斯&quot;: &quot;&quot;, &quot;[美] 迈克·雷斯尼克 编&quot;: &quot;&quot;, &quot;美]罗伯特·西尔弗伯格&quot;: &quot;&quot;, &quot;[美]海蒂·鲁比·米勒&quot;: &quot;&quot;, &quot;[澳大利亚]尼克·t. 陈&quot;: &quot;&quot;, &quot;[美]丹尼尔·f. 伽卢耶&quot;: &quot;&quot;, &quot;[美]刘宇昆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-12-18T04:49:31.297000+00:00" name="calibre:timestamp"/>
+        <meta content="银河边缘001：奇境" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33c053b2-d073-4fed-9c5b-54db4c4a4bda</dc:identifier>
+        <dc:title>那不勒斯四部曲NO.3：离开的，留下的（全球畅销近千万册，HBO真人电视剧热拍中，两个女人长达50年的友谊和战争）</dc:title>
+        <dc:creator opf:file-as="埃莱娜·费兰特 &amp; ePUBw.COM" opf:role="aut">埃莱娜·费兰特</dc:creator>
+        <dc:creator opf:file-as="埃莱娜·费兰特 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-09T16:00:00+00:00</dc:date>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4b84a023-79db-4b0b-bd57-90c20b8292b4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787020132003</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;埃莱娜·费兰特&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:52:47.171000+00:00" name="calibre:timestamp"/>
+        <meta content="那不勒斯四部曲NO.3：离开的，留下的（全球畅销近千万册，HBO真人电视剧热拍中，两个女人长达50年的友谊和战争）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c79a60d7-11ca-478d-aed9-4a9cc1418b06</dc:identifier>
+        <dc:title>纳博科夫短篇小说全集</dc:title>
+        <dc:creator opf:file-as="【美】弗拉基米尔·纳博科夫, 逢珍, ePUBw.COM" opf:role="aut">【美】弗拉基米尔·纳博科夫, 逢珍, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">24bca0db-46bb-4ec6-abb3-d5d7b96c7242</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532775576</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】弗拉基米尔·纳博科夫, 逢珍, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:53:18.368000+00:00" name="calibre:timestamp"/>
+        <meta content="纳博科夫短篇小说全集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

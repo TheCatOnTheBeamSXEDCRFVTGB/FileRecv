@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4daacec3-a869-4b97-ae4d-b4f591263664</dc:identifier>
+        <dc:title>鞋狗: 耐克创始人菲尔·奈特亲笔自传</dc:title>
+        <dc:creator opf:file-as="[美]菲尔·奈特(Phil Knight)" opf:role="aut">[美]菲尔·奈特(Phil Knight)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">bfcbf84e-cdfa-4689-83f0-199c1d789d8d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美]菲尔·奈特(Phil Knight)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:21:59.194000+00:00" name="calibre:timestamp"/>
+        <meta content="鞋狗: 耐克创始人菲尔·奈特亲笔自传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

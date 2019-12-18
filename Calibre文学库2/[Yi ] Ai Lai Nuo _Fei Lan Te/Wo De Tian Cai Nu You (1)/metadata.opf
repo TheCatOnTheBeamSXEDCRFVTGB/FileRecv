@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca15a850-dfc1-4107-9d24-aaea2771a34e</dc:identifier>
+        <dc:title>我的天才女友</dc:title>
+        <dc:creator opf:file-as="[意] 埃莱娜·费兰特" opf:role="aut">[意] 埃莱娜·费兰特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">978cdacf-7d3f-4140-b206-0d07489f0098</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[意] 埃莱娜·费兰特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T11:39:27+00:00" name="calibre:timestamp"/>
+        <meta content="我的天才女友" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

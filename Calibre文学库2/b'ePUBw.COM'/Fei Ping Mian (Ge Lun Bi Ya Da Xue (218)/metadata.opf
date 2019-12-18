@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0a40c5c-0040-48ea-9a7d-1896043db2b0</dc:identifier>
+        <dc:title>非平面（哥伦比亚大学首部漫画形式的博士论文，包揽多项国际大奖的天才奇书，一部人人都能读懂的学术著作。）</dc:title>
+        <dc:creator opf:file-as="b'ePUBw.COM' &amp; 尼克·索萨尼斯" opf:role="aut">b'ePUBw.COM'</dc:creator>
+        <dc:creator opf:file-as="b'ePUBw.COM' &amp; 尼克·索萨尼斯" opf:role="aut">尼克·索萨尼斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-31T16:00:00+00:00</dc:date>
+        <dc:publisher>北京：北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">64513f93-c10e-430a-b9c6-f384940b88fc</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787559619433</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;b'ePUBw.COM'&quot;: &quot;&quot;, &quot;尼克·索萨尼斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:51:14.744000+00:00" name="calibre:timestamp"/>
+        <meta content="非平面（哥伦比亚大学首部漫画形式的博士论文，包揽多项国际大奖的天才奇书，一部人人都能读懂的学术著作。）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1582eece-9ce8-4038-bc69-6a3d5f74e866</dc:identifier>
+        <dc:title>银河帝国：机器人五部曲（8至12）</dc:title>
+        <dc:creator opf:file-as="【美】艾萨克·阿西莫夫" opf:role="aut">【美】艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-26T16:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539983332</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e9488c69-42a5-4ecf-9cd0-fc38d372decc</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【美】艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-31T12:01:55+00:00" name="calibre:timestamp"/>
+        <meta content="银河帝国：机器人五部曲（8至12）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

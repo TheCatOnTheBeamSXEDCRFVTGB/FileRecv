@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bf85619-65eb-46e4-ab0c-76f7a627bbeb</dc:identifier>
+        <dc:title>贸易打造的世界：1400年至今的社会、文化与世界经济</dc:title>
+        <dc:creator opf:file-as="彭慕兰 &amp; 史蒂文·托皮克 &amp; ePUBw.COM" opf:role="aut">彭慕兰</dc:creator>
+        <dc:creator opf:file-as="彭慕兰 &amp; 史蒂文·托皮克 &amp; ePUBw.COM" opf:role="aut">史蒂文·托皮克</dc:creator>
+        <dc:creator opf:file-as="彭慕兰 &amp; 史蒂文·托皮克 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">a14d289b-7256-4ba5-99d0-0d6e9540aad9</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208148109</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;彭慕兰&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;, &quot;史蒂文·托皮克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:53:02.218000+00:00" name="calibre:timestamp"/>
+        <meta content="贸易打造的世界：1400年至今的社会、文化与世界经济" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

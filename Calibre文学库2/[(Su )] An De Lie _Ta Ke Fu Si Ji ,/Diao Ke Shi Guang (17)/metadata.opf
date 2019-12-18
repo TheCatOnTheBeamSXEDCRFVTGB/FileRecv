@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">249f3d78-77f9-4d9d-823c-1f5a34021e59</dc:identifier>
+        <dc:title>雕刻时光</dc:title>
+        <dc:creator opf:file-as="【苏】安德烈·塔可夫斯基, 张晓东, ePUBw.COM" opf:role="aut">【苏】安德烈·塔可夫斯基, 张晓东, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-05T16:00:00+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0a7f625e-aa14-4518-9eed-058481bc004a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544278591</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【苏】安德烈·塔可夫斯基, 张晓东, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T11:56:21.929000+00:00" name="calibre:timestamp"/>
+        <meta content="雕刻时光" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

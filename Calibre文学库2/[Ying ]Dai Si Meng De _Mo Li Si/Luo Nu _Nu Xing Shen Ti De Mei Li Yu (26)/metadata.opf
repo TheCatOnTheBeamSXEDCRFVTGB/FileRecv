@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f829965-36e6-45d7-adbe-69f6cf7ee4e9</dc:identifier>
+        <dc:title>裸女：女性身体的美丽与哀愁</dc:title>
+        <dc:creator opf:file-as="[英]戴斯蒙德·莫里斯 &amp; ePUBw.COM" opf:role="aut">[英]戴斯蒙德·莫里斯</dc:creator>
+        <dc:creator opf:file-as="[英]戴斯蒙德·莫里斯 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-15T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b3045259-5303-4e26-9ce6-72e1f2ea7b8b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787513300209</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[英]戴斯蒙德·莫里斯&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:14:06.067000+00:00" name="calibre:timestamp"/>
+        <meta content="裸女：女性身体的美丽与哀愁" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

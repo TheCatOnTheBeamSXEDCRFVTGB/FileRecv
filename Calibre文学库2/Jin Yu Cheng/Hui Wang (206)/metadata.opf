@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7d8e26d-2bfa-4916-bbc9-53e262cdc053</dc:identifier>
+        <dc:title>回望</dc:title>
+        <dc:creator opf:file-as="金宇澄" opf:role="aut">金宇澄</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">9e3b74aa-140d-4ecc-93e5-11393b8f54f3</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;金宇澄&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T03:44:27.095000+00:00" name="calibre:timestamp"/>
+        <meta content="回望" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

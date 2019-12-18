@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e7ada09-284c-4fb5-a872-bb62beb0ec63</dc:identifier>
+        <dc:title>时间不存在（未来事务管理局出品，《三体宇宙》开发合作方，22位作者共获得10次雨果奖、7次星云奖、4次轨迹奖、2次世界奇幻奖，横扫世界所有科幻小说大奖）</dc:title>
+        <dc:creator opf:file-as="未来事务管理局 &amp; ePUBw.COM" opf:role="aut">未来事务管理局</dc:creator>
+        <dc:creator opf:file-as="未来事务管理局 &amp; ePUBw.COM" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5c87d282-6f4d-4216-8fde-5adc568a0144</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787521200522</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;未来事务管理局&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T04:54:29.259000+00:00" name="calibre:timestamp"/>
+        <meta content="时间不存在（未来事务管理局出品，《三体宇宙》开发合作方，22位作者共获得10次雨果奖、7次星云奖、4次轨迹奖、2次世界奇幻奖，横扫世界所有科幻小说大奖）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">197cee32-8401-4860-87a2-586cf56f8015</dc:identifier>
+        <dc:title>智识分子：做个复杂的现代人 110</dc:title>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 万维钢" opf:role="aut">ePUBw.COM</dc:creator>
+        <dc:creator opf:file-as="ePUBw.COM &amp; 万维钢" opf:role="aut">万维钢</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-27T08:20:50+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">3510ede3-de83-4803-831e-0ffeba21b622</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121277313</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;万维钢&quot;: &quot;&quot;, &quot;ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-16T12:20:44.766000+00:00" name="calibre:timestamp"/>
+        <meta content="智识分子：做个复杂的现代人 110" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

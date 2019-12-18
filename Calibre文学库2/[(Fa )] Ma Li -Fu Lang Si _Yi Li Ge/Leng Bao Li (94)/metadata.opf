@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b247ec10-fe68-4292-99b6-e6953bde052d</dc:identifier>
+        <dc:title>冷暴力</dc:title>
+        <dc:creator opf:file-as="【法】玛丽-弗朗斯·伊里戈扬, ‎顾淑馨, ePUBw.COM" opf:role="aut">【法】玛丽-弗朗斯·伊里戈扬, ‎顾淑馨, ePUBw.COM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>江西人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787210090885</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ac4e0bab-ea21-440b-b062-a27ed26e11d2</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;【法】玛丽-弗朗斯·伊里戈扬, ‎顾淑馨, ePUBw.COM&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-17T00:43:02.717000+00:00" name="calibre:timestamp"/>
+        <meta content="冷暴力" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
